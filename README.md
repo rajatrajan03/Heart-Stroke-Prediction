@@ -96,7 +96,14 @@ The dataset used is `healthcare-dataset-stroke-data.csv`, which contains the fol
 ---
 
 ##RESULTS(CHARTS)
-![038055f1a3f04fb084afa8dad3292f76](https://github.com/user-attachments/assets/7a5fe920-97b4-4a03-870c-3309d55a90fe)
+![038055f1a3f04fb084afa8dad![4edac02fd52b4e6ab49d04e6088babe5](https://github.com/user-attachments/assets/e50e4e47-0dc0-453f-b800-8cc38f98b5d6)
+3292f76](https://github.com/user-attachments/assets/7a5fe920-97b4-4a03-870c-3309d55a90fe)
+![11b8994efdaa45ca9b129c734c92813e](https://github.com/user-attachments/assets/230bee8c-816f-4f73-a069-9c17425f1af0)
+![f6b2618ebcd046dea055aed9afead735](https://github.com/user-attachments/assets/ef45be07-1a0d-473a-854e-344b65f27885)
+![5ffd8198ec08413ab7bade823f376418](https://github.com/user-attachments/assets/021a4f66-a3e6-4afe-9336-732cd2f3c8c1)
+![a77b781dc6c246879bb2e43318d69b9e](https://github.com/user-attachments/assets/90c0a870-ddb4-4111-8321-37df1903ece1)
+![a77b781dc6c246879bb2e43318d![e975cdcbb25b4f2088aa12f6e3f06e82](https://github.com/user-attachments/assets/69330e8b-ae0e-434a-a5dc-0e685fbc0b70)
+69b9e](https://github.com/user-attachments/assets/1ec42043-218b-4c38-93c6-0997e4de02d2)
 
 ---
 
