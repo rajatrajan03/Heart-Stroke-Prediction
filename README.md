@@ -90,6 +90,8 @@ The dataset used is `healthcare-dataset-stroke-data.csv`, which contains the fol
   - Accuracy score.
   - Confusion matrix visualization.
   - Metrics like F1 score, Mean Squared Error (MSE), and R² score.
+  - ![f6b2618ebcd046dea055aed9afead735](https://github.com/user-attachments/assets/2248d0b1-af1c-4be8-8f74-161d65e7b618)
+
 
 ---
 
@@ -125,3 +127,6 @@ The Logistic Regression model achieved an accuracy of **58.33%**. Key insights f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
