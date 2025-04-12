@@ -85,17 +85,23 @@ The dataset used is `healthcare-dataset-stroke-data.csv`, which contains the fol
 - **Model Training**:
   - Logistic Regression model trained on scaled features.
   - Train-test split with an 80-20 ratio.
+  - 
 
 - **Model Evaluation**:
   - Accuracy score.
   - Confusion matrix visualization.
   - Metrics like F1 score, Mean Squared Error (MSE), and R² score.
-  - ![f6b2618ebcd046dea055aed9afead735](https://github.com/user-attachments/assets/2248d0b1-af1c-4be8-8f74-161d65e7b618)
 
 
 ---
 
-## Model Evaluation
+##RESULTS(CHARTS)
+![038055f1a3f04fb084afa8dad3292f76](https://github.com/user-attachments/assets/7a5fe920-97b4-4a03-870c-3309d55a90fe)
+
+---
+
+## Model Evaluation 
+
 
 - **Accuracy**: 58.33%
 - **Confusion Matrix**: Visualized using heatmaps.
